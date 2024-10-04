@@ -12,6 +12,7 @@ public class TorpedoStore {
   // rate of failing to fire torpedos [0.0, 1.0]
   private double FAILURE_RATE = 0.0; //NOSONAR
 
+  //egy hatalmas comment, mert kérte a Review
   private int torpedoCount = 0;
   
   //osztályszintű Random
